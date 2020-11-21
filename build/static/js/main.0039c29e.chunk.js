@@ -1,0 +1,2 @@
+(this["webpackJsonpsandbox-leaflet"]=this["webpackJsonpsandbox-leaflet"]||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);var a=n(2),s=(n(1),n(3));n.n(s).a.render(Object(a.jsx)("h1",{children:"Hello, React!"}),document.getElementById("app"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.0039c29e.chunk.js.map

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/YUUKIToriyama/sandbox-leafletstatic/js/main.0039c29e.chunk.js",
+    "main.js.map": "/YUUKIToriyama/sandbox-leafletstatic/js/main.0039c29e.chunk.js.map",
+    "runtime-main.js": "/YUUKIToriyama/sandbox-leafletstatic/js/runtime-main.a616b0d3.js",
+    "runtime-main.js.map": "/YUUKIToriyama/sandbox-leafletstatic/js/runtime-main.a616b0d3.js.map",
+    "static/js/2.e9012996.chunk.js": "/YUUKIToriyama/sandbox-leafletstatic/js/2.e9012996.chunk.js",
+    "static/js/2.e9012996.chunk.js.map": "/YUUKIToriyama/sandbox-leafletstatic/js/2.e9012996.chunk.js.map",
+    "index.html": "/YUUKIToriyama/sandbox-leafletindex.html",
+    "static/js/2.e9012996.chunk.js.LICENSE.txt": "/YUUKIToriyama/sandbox-leafletstatic/js/2.e9012996.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a616b0d3.js",
+    "static/js/2.e9012996.chunk.js",
+    "static/js/main.0039c29e.chunk.js"
+  ]
+}
